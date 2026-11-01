@@ -1,0 +1,6 @@
+{
+  "name": "TRL Voices | Studio Audio Player",
+  "description": "Premium dark audio player for TRL Voices featuring dynamic waveform animation, category curation, real-time audio playback, and script transcripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
